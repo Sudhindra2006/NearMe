@@ -114,18 +114,13 @@ There is one natural rock formation Nandi which one cannot miss and shows the pr
 </BODY>
 
 ```
-```
+
 
 
 ## OUTPUT
-
-Screenshot 2024-12-14 135228.png
-
-Screenshot 2024-12-14 135244.png
-
-Screenshot 2024-12-14 135321.png
-Screenshot 2024-12-14 135348.png
-
-
+![alt text](<Screenshot 2024-12-14 135228.png>)
+![alt text](<Screenshot 2024-12-14 135244.png>)
+![alt text](<Screenshot 2024-12-14 135321.png>)
+![alt text](<Screenshot 2024-12-14 135348.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
